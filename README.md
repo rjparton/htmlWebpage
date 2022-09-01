@@ -2,4 +2,4 @@
 
 Sample Screenshot of my page:
 
-![Sample](screenshot.jpg)
+![Sample](screenshot.png)
